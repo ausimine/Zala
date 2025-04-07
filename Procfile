@@ -1,1 +1,1 @@
-web: python Relai.py
+web: python relai.py
